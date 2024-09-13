@@ -36,7 +36,9 @@ Tesis que presentan los Bachilleres:
 
 Para obtener el título profesionale de \grado
 
-**Asesor: \asesorGrado \uppercase{\asesor}**
+**Asesor:**
+
+**\asesorGrado \uppercase{\ \asesor}**
 
 \hfill
 
@@ -58,8 +60,12 @@ Decreto de sustentación N° _____, de fecha ________
 
 \begin{tabular}{ccc}
 \hspace{3cm} & \hspace{3cm} & \hspace{3cm} \\
+\cline{1-1} \cline{3-3}
+\autorA & & \autorB \\
 Bachiller & & Bachiller \\
 \vspace{1.5cm} & & \\
+\cline{2-2}
+& \asesor & \\
 & Asesor & \\
 \end{tabular}
 
@@ -75,8 +81,12 @@ Aporbado por el jurado:
 
 \begin{tabular}{ccc}
 \hspace{3cm} & \hspace{3cm} & \hspace{3cm} \\
+\cline{1-1} \cline{3-3}
+\presidente & & \secretario \\
 Presidente & & Secretario \\
 \vspace{1.5cm} & & \\
+\cline{2-2}
+& \vocal & \\
 & Vocal & \\
 \end{tabular}
 
@@ -85,21 +95,27 @@ Presidente & & Secretario \\
 <!-- ÍNDICE GENERAL -->
 
 \renewcommand\contentsname{\large Índice general}
+\begin{small}
 \tableofcontents
+\end{small}
 
 \newpage
 
 <!-- ÍNDICE DE TABLAS -->
 
 \renewcommand\listtablename{\large Índice de tablas}
+\begin{small}
 \listoftables
+\end{small}
 
 \newpage
 
 <!-- ÍNDICE DE FIGURAS -->
 
 \renewcommand\listfigurename{\large Índice de figuras}
+\begin{small}
 \listoffigures
+\end{small}
 
 \newpage
 
