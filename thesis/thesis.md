@@ -12,7 +12,7 @@
 
 \vspace{1cm}
 
-![](format/escudo.png){height=5cm}
+![](./format/crest.png){height=5cm}
 
 \vspace{1cm}
 
