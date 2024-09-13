@@ -1,6 +1,6 @@
 \newpage
 
-# Anexos
+## Anexos
 
 \anexo{a:example}{Ejemplo de elementos}
 

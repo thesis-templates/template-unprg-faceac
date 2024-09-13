@@ -1,4 +1,4 @@
-# Resumen
+## Resumen
 
 Resumen
 
@@ -6,7 +6,7 @@ Resumen
 
 \newpage
 
-# Abstract
+## Abstract
 
 Abstract
 

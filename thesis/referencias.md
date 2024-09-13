@@ -1,6 +1,6 @@
 \newpage
 
-# Referencias bibliográficas
+## Referencias bibliográficas
 
 ::: {#refs}
 :::
