@@ -7,10 +7,20 @@
 ```yml
 # Editar ./meta.yml
 
-
+\def\escuela{ESCUELA PROFESIONAL DE ADMINISTRACIÓN}
+\def\titulo{TÍTULO DE LA TESIS}
+\def\autorA{Nombres Apellidos}
+\def\autorB{Nombres Apellidos}
+\def\asesor{Nombres Apellidos}
+\def\asesorGrado{M.Sc.}
+\def\grado{Licenciado en Administración}
+\def\fecha{Marzo - 2022}
+\def\presidente{Nombres Apellidos}
+\def\vocal{Nombre Apellidos}
+\def\secretario{Nombre Apellidos}
 ```
 
-## Las referencias
+## Las referencias en BibTeX
 
 ```bib
 %% Editar ./references.bib
