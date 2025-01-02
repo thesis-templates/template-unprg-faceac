@@ -1,9 +1,9 @@
 {
-  "annus": 2022,
-  "patria": "per",
-  "lingua": "spa",
-  "universitas": "www.unprg.edu.pe",
-  "facultas": "faceac.unprg.edu.pe",
-  "repositorium": "repositorio.unprg.edu.pe",
-  "descriptio": "Facultad de Ciencias Económicas Administrativas y Contables / Universidad Nacional Pedro Ruíz Gallo / Perú"
+  "year": 2024,
+  "description": "Facultad de Ciencias Económicas Administrativas y Contables / Universidad Nacional Pedro Ruíz Gallo / Perú",
+  "iso_country": "per",
+  "iso_language": "spa",
+  "url_university": "https://www.unprg.edu.pe/",
+  "url_school": "https://faceac.unprg.edu.pe/",
+  "url_repository": "https://repositorio.unprg.edu.pe/"
 }
