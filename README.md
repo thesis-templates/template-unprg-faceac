@@ -2,8 +2,6 @@
 
 Facultad de Ciencias Económicas Administrativas y Contables / Universidad Nacional Pedro Ruíz Gallo / Perú
 
-> Apoyame en [Patreon](https://patreon.com/moixllik) para más Thesis Templates.
-
 ```bash
 # Instalar requerimientos
 make pkgs
